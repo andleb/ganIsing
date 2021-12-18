@@ -6,3 +6,4 @@ authors:
 title: "Solving the Ising model using GANs"
 version: 0.1
 date-released: 2021-12-17
+url: "https://github.com/andleb/ganIsing"
